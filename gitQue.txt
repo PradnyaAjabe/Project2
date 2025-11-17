@@ -1,3 +1,10 @@
 How to push in Git
 How to pull in git
 how to resolve conflicts on git
+
+
+new concepts 
+
+git clone
+git pull
+git branches
